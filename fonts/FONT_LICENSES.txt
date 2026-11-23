@@ -1,0 +1,13 @@
+Кириллические глифы в ассетах шрифтов русификатора Playrooms основаны на открытых шрифтах:
+
+1. Handjet Regular (для терминала и телетекста VT323)
+   Copyright 2018 The Handjet Project Authors (https://github.com/rosettatype/Handjet/)
+   Лицензия: SIL Open Font License, Version 1.1 (https://openfontlicense.org)
+
+2. Oswald Bold (для заголовков Anton)
+   Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)
+   Лицензия: SIL Open Font License, Version 1.1 (https://openfontlicense.org)
+
+3. Roboto Condensed Regular / Bold (для основного интерфейса и Playrooms95)
+   Copyright 2011 Google Inc. All Rights Reserved.
+   Лицензия: Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
