@@ -4,7 +4,7 @@
 
 ## Выберите вариант установки
 
-- **Вариант 1 (Рекомендуется) - [Полное издание «2-в-1» на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69):** единый установщик с выбором модулей (русификатор текста и 4 шрифтов + дополнительное внутриигровое мод-меню и настройка баланса для одиночной игры) и обновления под патчи.
+- **Вариант 1 (Рекомендуется) - [Полное издание «2-в-1» на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69?utm_source=github&utm_medium=readme&utm_campaign=playrooms):** единый установщик с выбором модулей (русификатор текста и 4 шрифтов + дополнительное внутриигровое мод-меню и настройка баланса для одиночной игры) и обновления под патчи.
 - **Вариант 2 - [Базовый русификатор v1.0 на GitHub Releases](https://github.com/neoru-droid/playrooms-ru/releases/tag/v1.0.0):** только перевод текста и 4 шрифтов · [Как установить](#установка) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
 
 Проверено на версии 1.0.2 (сборка Steam 26705387) для **Windows** и **Steam Deck / Linux**. Достижения Steam продолжают открываться как в обычной игре, а кнопка удаления в любой момент возвращает чистый оригинал без перекачивания в Steam.
@@ -50,11 +50,11 @@
 ## История обновлений
 - **[v1.0](https://github.com/neoru-droid/playrooms-ru/releases/tag/v1.0.0)** - первый полный релиз перевода (1 439 строк во всех 6 таблицах + 4 кириллических шрифта) под версию 1.0.2 (сборка Steam 26705387).
 
-[Все версии](https://github.com/neoru-droid/playrooms-ru/releases) · [Полное издание «2-в-1» на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
+[Все версии](https://github.com/neoru-droid/playrooms-ru/releases) · [Полное издание «2-в-1» на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69?utm_source=github&utm_medium=readme&utm_campaign=playrooms) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
 
 <a id="support"></a>
 ## Поддержать
-- **[Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)**
+- **[Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=playrooms)**
 - **[Каталог всех игр с поиском](https://neoru-droid.github.io/)**
 
 Перевод сделан с помощью нейросети и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/playrooms-ru/issues), поправлю.
