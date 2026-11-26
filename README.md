@@ -53,6 +53,8 @@
 
 Перевод сделан нейросетью и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/playrooms-ru/issues), поправлю.
 
+Предложить игру на перевод в приоритетную очередь или заказать разбор вне очереди можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
+
 Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=playrooms) · [профиль на GitHub](https://github.com/neoru-droid)
 
 Лицензия: [MIT](LICENSE) (сведения о шрифтах в `fonts/FONT_LICENSES.txt`)
