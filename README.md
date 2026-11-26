@@ -1,59 +1,33 @@
-# Playrooms · Русификатор
+# Playrooms - Русификатор
 
-Полный русский перевод хоррора **Playrooms** со всеми 4 шрифтами под Steam `1.0.2` (сборка `26705387`, Windows и Steam Deck).
+1 439 строк: система `Playrooms95`, 177 реплик скрепки Балли, почта, магазин, 40-колоночный телетекст и 4 кириллических шрифта (`v1.0`, Steam `1.0.2`, сборка `26705387`, Windows и Steam Deck).
 
 ## Скачать
 **[Скачать русификатор v1.0 (ZIP)](https://github.com/neoru-droid/playrooms-ru/releases/download/v1.0.0/Playrooms-RU-v1.0.zip)** · [Как установить](#установка) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
 
-Проверено на версии `1.0.2` (сборка Steam `26705387`) для **Windows** и **Steam Deck / Linux**.
-
-![Playrooms · Русификатор](docs/screenshots/cover_wide.png)
+![Playrooms - Русификатор](docs/screenshots/cover_wide.png)
 
 ## Установка
-1. **Windows:** закройте игру, распакуйте архив и запустите `Playrooms-RU-Setup.exe` -> **«Установить русификатор»**.
-2. **Steam Deck / Linux:** распакуйте все файлы архива в одну папку и выполните `sh install-steamdeck.sh` рядом с `.exe`.
-3. Кнопка **«Вернуть оригинал»** убирает перевод через тот же установщик.
+1. **Windows:** закройте игру, распакуйте архив и запустите `Playrooms-RU-Setup.exe` -> **«Установить русификатор»** *(при окне SmartScreen: «Подробнее» -> «Выполнить в любом случае»)*.
+2. **Steam Deck / Linux:** распакуйте архив в одну папку и выполните `sh install-steamdeck.sh` рядом с `.exe`.
+3. **Откат:** кнопка **«Вернуть оригинал»** в том же установщике.
 
-*(Окно SmartScreen на Windows: «Подробнее» -> «Выполнить в любом случае».)*
-
-## Что входит в перевод
-- Все 1 439 строк из 6 таблиц локализации (`General`, `Balli`, `Skills`, `Items`, `Mails`, `Popups`) без пропусков: главное меню, настройки, подписи взаимодействия и ночные предупреждения.
-- Офисный компьютер `Playrooms95`: корпоративная почта `mail.exe`, магазин `shop.exe`, дерево улучшений `skills.exe`, гардероб роботов, сапёр «Шарики» и все 177 живых реплик скрепки-помощника Балли.
-- Внутриигровой телевизор и 40-колоночный телетекст с сохранением цветовой разметки и выравнивания экранов.
-- Кириллица во всех 4 шрифтах игры (основной `Roboto Condensed`, пиксельный шрифт терминала и крупный заголовочный шрифт) без «квадратов» и обрезки строк.
+## Что внутри
+- Меню, настройки, ночные предупреждения, `mail.exe`, `shop.exe`, `skills.exe`, гардероб роботов, сапёр «Шарики» и 177 реплик Балли.
+- Внутриигровой телевизор и 40-колоночный телетекст с сохранением цвета и выравнивания.
+- 4 кириллических шрифта игры (включая `Roboto Condensed` и пиксельный терминал).
 
 ## Скриншоты
-
 <details>
-<summary>Открыть игровые кадры</summary>
+<summary>Открыть игровые кадры (4)</summary>
 
-**Главное меню Playrooms95**
-
-![Главное меню](docs/screenshots/guide_1_menu.png)
-
-**Настройки игры**
-
+![Главное меню Playrooms95](docs/screenshots/guide_1_menu.png)
 ![Настройки игры](docs/screenshots/guide_2_settings.png)
-
-**Экран запуска**
-
 ![Экран запуска](docs/screenshots/guide_3_controls.png)
-
-**Игровой процесс на русском языке**
-
 ![Игровой процесс](docs/screenshots/guide_4_gameplay.png)
 
 </details>
 
-## История обновлений
-- **[v1.0](https://github.com/neoru-droid/playrooms-ru/releases/tag/v1.0.0)** - первый выпуск перевода (1 439 строк во всех 6 таблицах + 4 кириллических шрифта) под версию 1.0.2 (сборка Steam 26705387).
+Перевод сделан нейросетью и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/playrooms-ru/issues).
 
-## Обратная связь
-
-Перевод сделан нейросетью и проверен в игре. Найдёте опечатку или косяк - пишите в [Issues](https://github.com/neoru-droid/playrooms-ru/issues), поправлю.
-
-[Все переводы автора в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides) · [Все версии на GitHub](https://github.com/neoru-droid/playrooms-ru/releases)
-
-Лицензия: [MIT](LICENSE) (сведения о шрифтах в `fonts/FONT_LICENSES.txt`)
-
-Автор: `neoru-droid`
+[Все переводы автора в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides) · [Релизы](https://github.com/neoru-droid/playrooms-ru/releases) · [MIT](LICENSE) (шрифты: `fonts/FONT_LICENSES.txt`) · Автор: `neoru-droid`
